@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+span {
+  color: #f73636;
+}
+
+nav {
+  background: #201d1d;
+  padding: 5px;
+}
+
+nav ul li a {
+  color: white;
+  font-size: 20px;
+}
+
+nav ul li a:hover {
+  cursor: pointer;
+}
+
+#home div {
+  /* border: 2px solid red; */
+  margin: 65px auto 30px auto;
+}
+
+#home .card-img-top {
+  min-height: 300px;
+}
+
+#home .card {
+  height: 100%;
+}
+
+#home .card-footer {
+  margin: 0;
+}
+
+#about div {
+  /* border: 2px solid red; */
+  margin: 65px auto 30px auto;
+}
+
+#menu div {
+  /* border: 2px solid red; */
+  margin: 65px auto 30px auto;
+}
+
+#menu img {
+  min-height: 300px;
+}
+
+#menu .btn {
+  border: 1px solid #f73636;
+  background: #fffada;
+  border-radius: 10px;
+  color: #000;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#menu .btn:hover {
+  cursor: pointer;
+  background: transparent;
+  font-size: 15px;
+}
+
+#team .card-img-top {
+  height: 300px;
+}
+
+#conatct div {
+  /* border: 2px solid red; */
+  margin: 65px auto 30px auto;
+}
+
+#contact form {
+  padding: 2% 20%;
+}
+
+footer {
+  background: #000;
+}
+
+footer .container {
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+.bg1 {
+  background: url(/images/bg1.jpg) no-repeat center center/cover;
+}
+
+.bg2 {
+  padding: 3px;
+  background: url(/images/bg2.jpg) no-repeat center center/cover;
+}
+
+.bg2 h1 {
+  color: #ffffff;
+}
+
+.bg2 p {
+  color: #ffffff;
+}
+
+.bg3 {
+  padding: 3px;
+  background: url(/images/bg3.jpg) no-repeat center center/cover;
+}
+
+/*# sourceMappingURL=style.css.map */
