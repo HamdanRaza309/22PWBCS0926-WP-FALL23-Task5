@@ -47,6 +47,10 @@ nav ul li a:hover {
   margin: 65px auto 30px auto;
 }
 
+#about div h1 {
+  color: gray;
+}
+
 #menu div {
   /* border: 2px solid red; */
   margin: 65px auto 30px auto;
@@ -104,7 +108,7 @@ footer .container {
 }
 
 .bg2 h1 {
-  color: #ffffff;
+  color: #000;
 }
 
 .bg2 p {
